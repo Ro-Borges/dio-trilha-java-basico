@@ -9,7 +9,7 @@ String agencia;
 String nomeCliente;
 double saldo;
 
-System.out.println("Por favor, o seu nome:");
+System.out.println("Por favor, informe o seu nome:");
 nomeCliente = ler.nextLine();
 
 System.out.println("Qual o número da sua Agência?");
