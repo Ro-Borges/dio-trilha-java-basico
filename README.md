@@ -1,3 +1,3 @@
 # dio-trilha-java-basico
 
-Repositório de atvidades do Bootcamp Santader JAVA backend da DIO
+Repositório de atividades do Bootcamp Santader JAVA backend da DIO
